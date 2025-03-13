@@ -62,6 +62,12 @@
   - `entrypoint.ps1` for PowerShell
   ([Greg Burri](https://github.com/ummon))
 
+- Improve error message when giving the wrong password for a local token.
+  ([Samuel Cristobal](https://github.com/scristobal))
+
+- Improve error message when giving the wrong password for a local token.
+  ([Samuel Cristobal](https://github.com/scristobal))
+
 ### Language server
 
 - The language server now allows renaming of functions, constants,
