@@ -62,10 +62,7 @@
   - `entrypoint.ps1` for PowerShell
   ([Greg Burri](https://github.com/ummon))
 
-- Improve error message when giving the wrong password for a local token.
-  ([Samuel Cristobal](https://github.com/scristobal))
-
-- Improve error message when giving the wrong password for a local token.
+- Improve error messages when encrypting and decrypting local Hex AIP key.
   ([Samuel Cristobal](https://github.com/scristobal))
 
 ### Language server
